@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    max-width: 1000px;
+    box-sizing: border-box;
+    flex-direction: row;
+    margin: 0 auto;
+  }
+  
+  img {
+    width: 300px;
+    height: 200px;
+  }
+  .column-1 {
+    flex: 1;
+    margin: 5px;
+    padding: 10px;
+  }
+  .column-2 {
+    flex: 1;
+    margin: 5px;
+    padding: 10px;
+  }
+  .column-3 {
+    flex: 1;
+    margin: 5px;
+    padding: 10px;
+  }
+  h1 {
+    text-align: center;
+    color: tomato;
+  }
+  div h3 {
+    color: cornflowerblue;
+  }
+  
